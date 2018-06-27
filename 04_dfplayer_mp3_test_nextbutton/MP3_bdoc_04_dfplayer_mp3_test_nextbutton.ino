@@ -1,8 +1,13 @@
-/* 04_dfplayer_mp3_test
+/* 04_dfplayer_mp3_test_nextbutton
  * This is LCBBs basic mp3 test code (based on DRRobot's DFPlayer code) for sequential
  * mp3 playing tests and basic functionality. Other related code including more advnaced
  * functioanlity and LED track displays can be found at:
  * https://github.com/LetsCodeBlacksburg/arduino-mp3-player
+ *  
+ *  This version cleans up the playback code a bit and adds
+ *  structure for reading buttons and navigating playlists. This
+ *  version is also best suited for tracking the song # for
+ *  displaying on a display device.
  *  
  *  tweeks-pub1@theweeks.org, 2018-06-27 
  */
