@@ -5,7 +5,7 @@
 Several of the steps in this workshop also call on/require the LCBB Arduino Cook Book with the requisite Arduino recipes located here: https://github.com/LetsCodeBlacksburg/arduino-recipes/blob/master/LCBB_Arduino_Cookbook.pdf
 
 ## Recommended Hardware
-{::nomarkdown}<A HREF=http://theweeks.org/tmp/PICS/LCBB/DFPlayer_Mini_Manual.pdf target=_new><IMG SRC=http://theweeks.org/tmp/PICS/LCBB/LCBB_mp3/LCBB_DFPlayer.jpg align=right width=250></A>{:/}
+<A HREF=http://theweeks.org/tmp/PICS/LCBB/DFPlayer_Mini_Manual.pdf target=_new><IMG SRC=http://theweeks.org/tmp/PICS/LCBB/LCBB_mp3/LCBB_DFPlayer.jpg align=right width=250></A>
 The hardware in this project is centered around the DFRobot "DFPlayer Mini MP3 Player" which can be found on Amazon for around $8-10(US) or direct from China for around $2-3.  We do recommend using arduinos with built in 3-pin SVG server/sensor headers such as the Funduino or sensor shield. Here's the complete parts list:
 * 1 – Arduino board (w/SVG headers or sensor shield) - ex: https://www.amazon.com/dp/B072P13CWC
 * 1 – 9v Alkaline Battery w/clip & barrel connector - ex: https://www.amazon.com/dp/B0764MDPK3
