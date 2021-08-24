@@ -1,8 +1,10 @@
 # arduino-mp3-player
 
-<IMG SRC=http://theweeks.org/tmp/PICS/LCBB/LCBB_mp3/LCBB_DFPlayer+speaker+tm1637LCD.png align=right width=400>This class was written to take LCBB workshop participants through the steps of building their own Arduino controlled MP3 Player. The build doc for stepping through the PDF above/in this repo. Here's a diagram of the completed MP3 player project.
+<IMG SRC=http://theweeks.org/tmp/PICS/LCBB/LCBB_mp3/LCBB_DFPlayer+speaker+tm1637LCD.png align=right width=400>This class was written to take LCBB workshop participants through the steps of building their own Arduino controlled MP3 Player. Here's a diagram of the completed MP3 player project.
 
-Several of the steps in this workshop also call on/require the LCBB Arduino Cook Book with the requisite Arduino recipes located here: https://github.com/LetsCodeBlacksburg/arduino-recipes/blob/master/LCBB_Arduino_Cookbook.pdf
+Here are the two documents needed for this workshop. The build doc for stepping through assembly of each of the components of the workshop, and then several of the steps also call on the LCBB Arduino Cook Book: 
+* Build Doc - https://github.com/LetsCodeBlacksburg/arduino-mp3-player/blob/master/LCBB_MP3-Player%2Btm1673-LED_Build-Doc.pdf
+* Cookbook - https://github.com/LetsCodeBlacksburg/arduino-recipes/blob/master/LCBB_Arduino_Cookbook.pdf
 
 ## Recommended Hardware
 <A HREF=http://theweeks.org/tmp/PICS/LCBB/DFPlayer_Mini_Manual.pdf target=_new><IMG SRC=http://theweeks.org/tmp/PICS/LCBB/LCBB_mp3/LCBB_DFPlayer.jpg align=right width=250></A>
